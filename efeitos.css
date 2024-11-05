@@ -1,0 +1,19 @@
+h1{
+    color: crimson;
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+    padding: 10px;
+    border-bottom: 1px solid darkgray;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    background-color: rgba(255, 255, 255, 0.8);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    transition: background-color 0.3s ease;
+    cursor: pointer;
+    transition: color 0.3s ease;
+    transition: border-bottom 0.3s ease;
+    transition: box-shadow 0.3s ease;
+    transition: background-color 0.3s ease;
+    transition: transform 0.3s ease;
+}
